@@ -1,2 +1,2 @@
 # Solar-System
- Source Code ->  
+ Source Code path -> Assets/SolarSystemAssets/Scripts/ 
